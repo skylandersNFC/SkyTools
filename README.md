@@ -61,3 +61,9 @@ Enter a 4-byte UID (or type 'exit' to quit): 90377C9F
 The UID 90377C9F was found in the following file(s):
   1. Spyro's Adventure\1) Figures\Bash.dump
 ```
+
+## Fix_Sector_0_Trailer_Access_Conditions.py
+
+> [!NOTE]
+> 
+> Changes Sector 0 Trailer Access Conditions to 0xFF, 0x07, 0x80 for all dumps.
